@@ -5,6 +5,8 @@ Rails.application.routes.draw do
     resources :comments
   end
 
+  resources :categories
+
   root 'welcome#index'
 
   # Example of regular route:

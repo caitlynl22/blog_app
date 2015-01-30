@@ -1,0 +1,2 @@
+module SuggestedReadingsHelper
+end
